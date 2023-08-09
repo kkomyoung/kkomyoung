@@ -1,7 +1,7 @@
 
 
 # Hi, there 👋
-I am a **Frontend Developer** who enjoys coding while listening to music. 💖
+I'm a **Frontend Developer** who enjoys coding while listening to music. 💖
 
 <br/>
 
