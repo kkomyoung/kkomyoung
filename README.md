@@ -1,8 +1,14 @@
 
 <div align="center">
   <h3>Hi there 👋</h3>
-  
-  <h3>Tech Stack 🛠</h3>
+
+<br/>
+  <h3>📚 My Blog </h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kya754&tag=오류)](https://github.com/kya754/velog-readme-stats)
+
+  <br/>
+  <h3>🛠 Tech Stack</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
