@@ -38,7 +38,7 @@ I'm a **Frontend Developer** who enjoys coding while listening to music. 💖
 <br />
 
 ### 📚 My Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kya754)](https://github.com/kya754/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kya754)](https://velog.io/@kya754)
 
 
 <!--
