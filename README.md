@@ -26,11 +26,11 @@ I'm a **Frontend Developer** who loves coding while listening to music. 💖
 
 <br/>
 
-### 🤝 Team Project
+### 🤝 Toy Project
 
 |                             Project                                |        Subject                                  |          Date            |          Etc           |
 |:-------------------------------------------------------------------|:------------------------------------------------|:------------------------ |:---------------------- |
-|  [DreamWave](https://github.com/let-sgoDreamTeam/dream-wave-front) |  수면 리듬 주기를 활용하여 적정 수면 시간을 제안해주는 서비스  | 2023.07 ~ 작업 중          |             |
+|  [DreamWave](https://github.com/let-sgoDreamTeam/dream-wave-front) |  수면 리듬 주기를 활용하여 적정 수면 시간을 제안해주는 서비스  | 2023.07 ~ 2023.10 (3개월)          |             |
 | [DailyDev](https://github.com/TEAM-KN/daily_dev_front)             |  유명 IT 기업의 기술 블로그 및 뉴스 구독 서비스            | 2023.06 ~ 2023.08 (3개월)          |              |
 | [연애서류합](https://github.com/kkomyoung/love-document-client)       |  소개팅 상대와의 궁합을 알아보는 서비스                   | 2023.01 ~ 2023.06 (6개월) |              |
 
