@@ -6,30 +6,24 @@ I'm a **Frontend Developer** who loves coding while listening to music. 💖
 <br/>
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![ReactNative](https://img.shields.io/badge/ReactNative-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Emotion](https://img.shields.io/badge/Emotion-E6007A?style=flat-square&logo=Emotion&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-f2f2f2?style=flat-square&logo=pug&logoColor=A86454)    
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)  
+
+**State & Data**  
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)  
+
+**Styling**  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Emotion](https://img.shields.io/badge/Emotion-E6007A?style=flat-square&logo=Emotion&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  
 
 <br/>
 
-### 🤝 Toy Project
+### 🤝 Side Project
 
 |                             Project                                |        Subject                                  |          Date            |          Etc           |
 |:-------------------------------------------------------------------|:------------------------------------------------|:------------------------ |:---------------------- |
+|  [건강약속](https://github.com/hwangdaehan/healthPromise) | 근처에 있는 병원을 검색하고 예약 후 기록을 도와주는 서비스 | 2025.09 ~ (진행중)          |             |
+|  SL미러텍 ERP |  제조 현장의 작업 효율과 가시성을 높이기 위해 구축한 웹 기반 ERP 시스템  | 2025.08 ~ (진행중)          |      Private       |
 |  [DreamWave](https://github.com/let-sgoDreamTeam/dream-wave-front) |  수면 리듬 주기를 활용하여 적정 수면 시간을 제안해주는 서비스  | 2023.07 ~ 2023.10 (3개월)          |             |
 | [DailyDev](https://github.com/TEAM-KN/daily_dev_front)             |  유명 IT 기업의 기술 블로그 및 뉴스 구독 서비스            | 2023.06 ~ 2023.08 (3개월)          |              |
 | [연애서류합](https://github.com/kkomyoung/love-document-client)       |  소개팅 상대와의 궁합을 알아보는 서비스                   | 2023.01 ~ 2023.06 (6개월) |              |
